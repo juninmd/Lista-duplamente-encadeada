@@ -19,7 +19,7 @@ struct no {
 */
 void menuPrincipal(){
 	system("cls");
-	printf("--- MALLOC REVERSE ---\n\n");
+	printf("--- Lista duplamente Encadeada ---\n\n");
 	printf("1) Inserir Inicio\n");
 	printf("2) Listar\n");
 	printf("3) Listar reverso\n");
